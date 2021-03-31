@@ -2,7 +2,7 @@ using System;
 
 namespace SchoolPortal
 {
-    public class Commercial : School
+    public class Commercial : Student
     {
         public double ElectCircuit { get; set; }
         public double CircuitAnalysis { get; set; }
@@ -14,6 +14,12 @@ namespace SchoolPortal
             CircuitAnalysis = circuitAnaly;
             AnalogCom = analogCom;
         }
+        // public override void GetDept()
+        // {
+        //     base.GetDept();
+        //     "COM" ? $"Electric Circuit- {ElectCircuit}\nCircuit Analysis- {CircuitAnalysis}\nAnalog communication- {AnalogCom}" : 
+        // }
+
 
         public double StudentComScore()
         {

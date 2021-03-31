@@ -2,7 +2,7 @@ using System;
 
 namespace SchoolPortal
 {
-    public class Science : School
+    public class Science : Student
     {
         public double ComputerNet { get; set; }
         public double DataStr { get; set; }

@@ -2,7 +2,7 @@ using System;
 
 namespace SchoolPortal
 {
-    public class School
+    public class Student
     {
         public string StudentName { get; set; }
 
@@ -12,12 +12,18 @@ namespace SchoolPortal
 
         public double Score { get; set; }
 
-        public School(string student, string regNum, string dept, double score)
+        public Student(string student, string regNum, string dept, double score)
         {
             StudentName = student;
             RegistrationNum = regNum;
             Department = dept;
             Score = score;
         }
+
+        // public virtual void GetDept()
+        // {
+        //     Console.WriteLine("Enter your Department:\n");
+        //     string DePartm = Console.ReadLine();
+        // }
     }
 }
