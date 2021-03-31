@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\ref\SavingAccountTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\bin\Debug\net5.0\SavingAccountTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\ref\SavingAccountTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\SavingAccountTask\obj\Debug\net5.0\SavingAccountTask.genruntimeconfig.cache

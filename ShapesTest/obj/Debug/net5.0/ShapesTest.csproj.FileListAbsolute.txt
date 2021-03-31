@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ref\ShapesTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\bin\Debug\net5.0\ShapesTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ref\ShapesTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\ShapesTest\obj\Debug\net5.0\ShapesTest.genruntimeconfig.cache

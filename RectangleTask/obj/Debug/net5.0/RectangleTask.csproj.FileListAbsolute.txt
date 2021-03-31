@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\ref\RectangleTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\bin\Debug\net5.0\RectangleTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\ref\RectangleTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Object-and-Inheritance\RectangleTask\obj\Debug\net5.0\RectangleTask.genruntimeconfig.cache
